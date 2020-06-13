@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+		<item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+	<style name="titleTextStyle" parent="@style/Base.TextAppearance.AppCompat.Title">
+		<item name="android:textSize">28sp</item>
+		<item name="android:fontFamily">@font/myfont_bold</item>
+	</style>
+	
+	<style name="notesTitleTextStyle" parent="@style/Base.TextAppearance.AppCompat.Title">
+		<item name="android:textSize">20sp</item>
+		<item name="android:fontFamily">@font/myfont_bold</item>
+	</style>
+</resources>

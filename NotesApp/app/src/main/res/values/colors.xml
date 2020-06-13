@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#F9F9F9F9</color>
+    <color name="colorAccent">#1E88E5</color>
+	<color name="colorControlHighlight">#FF1870D8</color>
+	<color name="colorControlNormal">#FF1870D8</color>
+	<color name="abc_decor_view_status_guard">#ff000000</color>
+	<color name="abc_decor_view_status_guard_light">#ffffffff</color>
+	<color name="abc_search_url_text_normal">#ff7fa87f</color>
+	<color name="abc_search_url_text_pressed">@android:color/black</color>
+	<color name="abc_search_url_text_selected">@android:color/black</color>
+	<color name="accent_material_dark">@color/material_deep_teal_200</color>
+	<color name="accent_material_light">@color/material_deep_teal_500</color>
+	<color name="account_menu_footer_ripple_color_dark">@color/google_grey400</color>
+	<color name="account_menu_footer_ripple_color_light">@color/google_grey200</color>
+	<color name="background_floating_material_dark">@color/material_grey_800</color>
+	<color name="background_floating_material_light">@android:color/white</color>
+	<color name="background_material_dark">@color/material_grey_850</color>
+	<color name="background_material_light">@color/material_grey_50</color>
+	<color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+	<color name="bright_foreground_disabled_material_light">#80000000</color>
+	<color name="bright_foreground_material_dark">@android:color/white</color>
+	<color name="bright_foreground_material_light">@android:color/black</color>
+	<color name="button_material_dark">#ff5a595b</color>
+	<color name="button_material_light">#ffd6d7d7</color>
+	<color name="cardview_dark_background">#ff424242</color>
+	<color name="cardview_light_background">#ffffffff</color>
+	<color name="design_dark_default_color_background">#ff121212</color>
+	<color name="design_dark_default_color_error">#ffcf6679</color>
+	<color name="design_dark_default_color_on_background">#ffffffff</color>
+	<color name="design_dark_default_color_on_error">#ff000000</color>
+	<color name="design_dark_default_color_on_primary">#ff000000</color>
+	<color name="design_dark_default_color_on_secondary">#ff000000</color>
+	<color name="design_dark_default_color_on_surface">#ffffffff</color>
+	<color name="design_dark_default_color_primary_variant">#ff3700b3</color>
+	<color name="design_dark_default_color_secondary">#ff03dac6</color>
+	<color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+	<color name="design_dark_default_color_surface">#ff121212</color>
+	<color name="design_default_color_background">#ffffffff</color>
+	<color name="design_default_color_error">#ffb00020</color>
+	<color name="design_default_color_on_background">#ff000000</color>
+	<color name="design_default_color_on_error">#ffffffff</color>
+	<color name="design_default_color_on_primary">#ffffffff</color>
+	<color name="design_default_color_on_secondary">#ff000000</color>
+	<color name="design_default_color_on_surface">#ff000000</color>
+	<color name="design_default_color_primary_variant">#ff3700b3</color>
+	<color name="design_default_color_secondary">#ff03dac6</color>
+	<color name="design_default_color_secondary_variant">#ff018786</color>
+	<color name="design_default_color_surface">#ffffffff</color>
+	<color name="design_fab_stroke_end_inner_color">#0a000000</color>
+	<color name="design_fab_stroke_end_outer_color">#0f000000</color>
+	<color name="design_fab_stroke_top_inner_color">#1affffff</color>
+	<color name="design_fab_stroke_top_outer_color">#2effffff</color>
+	<color name="design_snackbar_background_color">#ff323232</color>
+	<color name="error_color_material_dark">#ffff7043</color>
+	<color name="error_color_material_light">#ffff5722</color>
+	<color name="foreground_material_dark">@android:color/white</color>
+	<color name="foreground_material_light">@android:color/black</color>
+	<color name="google_black">#ff000000</color>
+	<color name="google_blue100">#ffd2e3fc</color>
+	<color name="google_blue200">#ffaecbfa</color>
+	<color name="google_blue300">#ff8ab4f8</color>
+	<color name="google_blue400">#ff669df6</color>
+	<color name="google_blue50">#ffe8f0fe</color>
+	<color name="google_blue500">#ff4285f4</color>
+	<color name="google_blue600">#ff1a73e8</color>
+	<color name="google_blue700">#ff1967d2</color>
+	<color name="google_blue800">#ff185abc</color>
+	<color name="google_blue900">#ff174ea6</color>
+	<color name="google_cyan400">#ff4ecde6</color>
+	<color name="google_dark_color_on_secondary_state_content">@color/google_white</color>
+	<color name="google_dark_color_on_surface_state_content">@color/google_grey50</color>
+	<color name="google_dark_color_textfield_hairline">@color/google_grey400</color>
+	<color name="google_dark_color_textfield_on_surface_variant">@color/google_grey400</color>
+	<color name="google_dark_default_color_background">@color/google_grey900</color>
+	<color name="google_dark_default_color_error">@color/google_red300</color>
+	<color name="google_dark_default_color_error_state_content">@color/google_red200</color>
+	<color name="google_dark_default_color_hairline">@color/google_grey700</color>
+	<color name="google_dark_default_color_on_background">@color/google_grey200</color>
+	<color name="google_dark_default_color_on_error">@color/google_grey900</color>
+	<color name="google_dark_default_color_on_primary">@color/google_grey200</color>
+	<color name="google_dark_default_color_on_primary_google">@color/google_grey900</color>
+	<color name="google_dark_default_color_on_primary_state_layer_google">@color/google_white</color>
+	<color name="google_dark_default_color_on_secondary">@color/google_blue100</color>
+	<color name="google_dark_default_color_on_surface">@color/google_grey200</color>
+	<color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
+	<color name="google_dark_default_color_on_surface_variant">@color/google_grey500</color>
+	<color name="google_dark_default_color_primary">@color/google_grey900</color>
+	<color name="google_dark_default_color_primary_dark">@color/google_grey900</color>
+	<color name="google_dark_default_color_primary_google">@color/google_blue300</color>
+	<color name="google_dark_default_color_primary_state_content_google">@color/google_blue200</color>
+	<color name="google_dark_default_color_primary_variant">@color/google_grey900</color>
+	<color name="google_dark_default_color_primary_variant_google">@color/google_blue400</color>
+	<color name="google_dark_default_color_secondary">#ff3a4557</color>
+	<color name="google_dark_default_color_secondary_variant">#ff212b3c</color>
+	<color name="google_dark_default_color_surface">@color/google_grey900</color>
+	<color name="google_dark_default_color_textfield_error">@color/google_red200</color>
+	<color name="google_default_color_background">@color/google_white</color>
+	<color name="google_default_color_error">@color/google_red600</color>
+	<color name="google_default_color_error_state_content">@color/google_red900</color>
+	<color name="google_default_color_hairline">@color/google_grey300</color>
+	<color name="google_default_color_on_background">@color/google_grey900</color>
+	<color name="google_default_color_on_error">@color/google_white</color>
+	<color name="google_default_color_on_primary">@color/google_grey900</color>
+	<color name="google_default_color_on_primary_google">@color/google_white</color>
+	<color name="google_default_color_on_primary_state_layer_google">@color/google_grey900</color>
+	<color name="google_default_color_on_secondary">@color/google_blue700</color>
+	<color name="google_default_color_on_secondary_state_content">@color/google_blue900</color>
+	<color name="google_default_color_on_surface">@color/google_grey800</color>
+	<color name="google_default_color_on_surface_disabled">#603c4043</color>
+	<color name="google_default_color_on_surface_state_content">@color/google_grey900</color>
+	<color name="google_default_color_on_surface_variant">@color/google_grey700</color>
+	<color name="google_default_color_primary">@color/google_white</color>
+	<color name="google_default_color_primary_dark">@color/google_white</color>
+	<color name="google_default_color_primary_google">@color/google_blue600</color>
+	<color name="google_default_color_primary_state_content_google">@color/google_blue900</color>
+	<color name="google_default_color_primary_variant">@color/google_white</color>
+	<color name="google_default_color_primary_variant_google">@color/google_blue500</color>
+	<color name="google_default_color_secondary">@color/google_blue50</color>
+	<color name="google_default_color_secondary_variant">@color/google_blue100</color>
+	<color name="google_default_color_surface">@color/google_white</color>
+	<color name="google_default_color_textfield_error">@color/google_red700</color>
+	<color name="google_default_color_textfield_hairline">@color/google_grey600</color>
+	<color name="google_default_color_textfield_on_surface_variant">@color/google_grey700</color>
+	<color name="google_green400">#ff5bb974</color>
+	<color name="google_green500">#ff34a853</color>
+	<color name="google_grey100">#fff1f3f4</color>
+	<color name="google_grey200">#ffe8eaed</color>
+	<color name="google_grey300">#ffdadce0</color>
+	<color name="google_grey400">#ffbdc1c6</color>
+	<color name="google_grey50">#fff8f9fa</color>
+	<color name="google_grey500">#ff9aa0a6</color>
+	<color name="google_grey600">#ff80868b</color>
+	<color name="google_grey700">#ff5f6368</color>
+	<color name="google_grey800">#ff3c4043</color>
+	<color name="google_grey900">#ff202124</color>
+	<color name="google_orange400">#fffa903e</color>
+	<color name="google_pink400">#ffff63b8</color>
+	<color name="google_purple400">#ffaf5cf7</color>
+	<color name="google_red200">#fff6aea9</color>
+	<color name="google_red300">#fff28b82</color>
+	<color name="google_red400">#ffee675c</color>
+	<color name="google_red500">#ffea4335</color>
+	<color name="google_red600">#ffd93025</color>
+	<color name="google_red700">#ffc5221f</color>
+	<color name="google_red900">#ffa50e0e</color>
+	<color name="google_scrim">#99000000</color>
+	<color name="google_transparent">#00000000</color>
+	<color name="google_white">#ffffffff</color>
+	<color name="google_yellow400">#fffcc934</color>
+	<color name="google_yellow500">#fffbbc04</color>
+	<color name="growthkit_dialog_background">@color/google_white</color>
+	<color name="hats_lib_checkbox_tint">#8c333333</color>
+	<color name="hats_lib_open_text_underline">#ff4285f4</color>
+	<color name="hats_lib_prompt_take_survey_blue">#ff4285f4</color>
+	<color name="hats_lib_prompt_text_color">#ff212121</color>
+	<color name="hats_lib_survey_caption_text_color">#ff424242</color>
+	<color name="hats_lib_survey_control_normal">#ff9b9b9b</color>
+	<color name="hats_lib_survey_highlight_color">#ffeeeeee</color>
+	<color name="hats_lib_survey_light_ripple_color">#ffbdbdbd</color>
+	<color name="hats_lib_survey_text_color">#ff757575</color>
+	<color name="hats_lib_survey_white_ripple_color">#ff757575</color>
+	<color name="hats_lib_survey_white_shape_color">#ffffffff</color>
+	<color name="hats_lib_white_100">#ffffffff</color>
+	<color name="highlighted_text_material_dark">#6680cbc4</color>
+	<color name="highlighted_text_material_light">#66009688</color>
+	<color name="libraries_material_featurehighlight_text_body_color">#ffffffff</color>
+	<color name="libraries_material_featurehighlight_text_dismiss_action_color">#ffffffff</color>
+	<color name="libraries_material_featurehighlight_text_header_color">#ffffffff</color>
+	<color name="material_deep_teal_200">#ff80cbc4</color>
+	<color name="material_deep_teal_500">#ff008577</color>
+	<color name="material_grey_100">#fff5f5f5</color>
+	<color name="material_grey_50">#fffafafa</color>
+	<color name="material_grey_600">#ff757575</color>
+	<color name="material_grey_800">#ff424242</color>
+	<color name="material_grey_850">#ff303030</color>
+	<color name="material_grey_900">#ff212121</color>
+	<color name="mtrl_scrim_color">#52000000</color>
+	<color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
+	<color name="mtrl_textinput_disabled_color">#1f000000</color>
+	<color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
+	<color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
+	<color name="og_account_text_color_dark">@color/google_grey500</color>
+	<color name="og_account_text_color_light">@color/google_grey700</color>
+	<color name="og_background_dark">@color/og_elevation_dark_2</color>
+	<color name="og_background_light">@color/google_white</color>
+	<color name="og_bottom_drawer_background_dark">@color/og_elevation_dark_2</color>
+	<color name="og_bottom_drawer_background_light">@color/google_white</color>
+	<color name="og_bottom_drawer_handle_dark">@color/google_grey700</color>
+	<color name="og_bottom_drawer_handle_light">@color/google_grey200</color>
+	<color name="og_default_disc_placeholder_color_dark">@color/google_grey800</color>
+	<color name="og_default_disc_placeholder_color_light">@color/google_grey100</color>
+	<color name="og_default_icon_color_dark">@color/google_grey200</color>
+	<color name="og_default_icon_color_light">@color/google_grey800</color>
+	<color name="og_elevation_dark_2">#ff2d2e30</color>
+	<color name="og_elevation_dark_5">#ff3b3d3f</color>
+	<color name="og_incognito_top_tight_icon_color_dark">@color/google_grey100</color>
+	<color name="og_incognito_top_tight_icon_color_light">@color/google_grey800</color>
+	<color name="og_item_action_text_color_light">@color/google_grey800</color>
+	<color name="og_item_disabled_icon_color_dark">@color/google_grey400</color>
+	<color name="og_item_disabled_icon_color_light">@color/google_grey600</color>
+	<color name="og_item_text_color_dark">@color/google_grey200</color>
+	<color name="og_item_text_color_light">@color/google_grey800</color>
+	<color name="og_menu_title_color_dark">@color/google_blue300</color>
+	<color name="og_menu_title_color_light">@color/google_blue600</color>
+	<color name="og_ripple_base_dark">@color/google_grey200</color>
+	<color name="og_ripple_base_light">@color/google_grey800</color>
+	<color name="places_autocomplete_error_button">@color/quantum_googblue500</color>
+	<color name="places_autocomplete_error_message">@color/quantum_grey600</color>
+	<color name="places_autocomplete_fullscreen_background">#fff1f1f1</color>
+	<color name="places_autocomplete_list_background">@color/quantum_grey100</color>
+	<color name="places_autocomplete_prediction_primary_text">@color/quantum_grey900</color>
+	<color name="places_autocomplete_prediction_primary_text_highlight">@color/quantum_grey600</color>
+	<color name="places_autocomplete_prediction_secondary_text">@color/quantum_grey600</color>
+	<color name="places_autocomplete_progress_tint">#ff4184f3</color>
+	<color name="places_autocomplete_search_hint">@color/quantum_grey400</color>
+	<color name="places_autocomplete_search_text">@color/quantum_grey900</color>
+	<color name="places_autocomplete_separator">#1f000000</color>
+	<color name="places_text_black_alpha_26">#42010000</color>
+	<color name="places_text_black_alpha_87">#de000000</color>
+	<color name="places_text_white_alpha_26">#42ffffff</color>
+	<color name="places_text_white_alpha_87">#deffffff</color>
+	<color name="places_ui_default_primary">@color/quantum_grey100</color>
+	<color name="places_ui_default_primary_dark">@color/quantum_grey700</color>
+	<color name="primary_dark_material_dark">@android:color/black</color>
+	<color name="primary_dark_material_light">@color/material_grey_600</color>
+	<color name="primary_material_dark">@color/material_grey_900</color>
+	<color name="primary_material_light">@color/material_grey_100</color>
+	<color name="primary_text_default_material_dark">#ffffffff</color>
+	<color name="primary_text_default_material_light">#de000000</color>
+	<color name="primary_text_disabled_material_dark">#4dffffff</color>
+	<color name="primary_text_disabled_material_light">#39000000</color>
+	<color name="quantum_googblue">@color/quantum_googblue500</color>
+	<color name="quantum_googblue500">#ff4285f4</color>
+	<color name="quantum_googblue600">#ff3b78e7</color>
+	<color name="quantum_googgreen">@color/quantum_googgreen500</color>
+	<color name="quantum_googgreen500">#ff0f9d58</color>
+	<color name="quantum_googred">@color/quantum_googred500</color>
+	<color name="quantum_googred500">#ffdb4437</color>
+	<color name="quantum_googyellow">@color/quantum_googyellow500</color>
+	<color name="quantum_googyellow500">#fff4b400</color>
+	<color name="quantum_grey100">#fff5f5f5</color>
+	<color name="quantum_grey400">#ffbdbdbd</color>
+	<color name="quantum_grey600">#ff757575</color>
+	<color name="quantum_grey700">#ff616161</color>
+	<color name="quantum_grey900">#ff212121</color>
+	<color name="ripple_material_dark">#33ffffff</color>
+	<color name="ripple_material_light">#1f000000</color>
+	<color name="secondary_text_default_material_dark">#b3ffffff</color>
+	<color name="secondary_text_default_material_light">#8a000000</color>
+	<color name="secondary_text_disabled_material_dark">#36ffffff</color>
+	<color name="secondary_text_disabled_material_light">#24000000</color>
+	<color name="switch_thumb_disabled_material_dark">#ff616161</color>
+	<color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+	<color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+	<color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+	<color name="tooltip_background_dark">#e6616161</color>
+	<color name="tooltip_background_light">#e6ffffff</color>
+	<color name="abc_input_method_navigation_guard">@android:color/black</color>
+	<color name="abc_search_url_text_normal">#ff7fa87f</color>
+	<color name="abc_search_url_text_pressed">@android:color/black</color>
+	<color name="abc_search_url_text_selected">@android:color/black</color>
+	<color name="accent_material_dark">@color/material_deep_teal_200</color>
+	<color name="accent_material_light">@color/material_deep_teal_500</color>
+	<color name="background_floating_material_dark">@color/material_grey_800</color>
+	<color name="background_floating_material_light">@android:color/white</color>
+	<color name="background_material_dark">@color/material_grey_850</color>
+	<color name="background_material_light">@color/material_grey_50</color>
+	<color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+	<color name="bright_foreground_disabled_material_light">#80000000</color>
+	<color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+	<color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+	<color name="bright_foreground_material_dark">@android:color/white</color>
+	<color name="bright_foreground_material_light">@android:color/black</color>
+	<color name="browser_actions_bg_grey">#fff5f5f5</color>
+	<color name="browser_actions_divider_color">#1e000000</color>
+	<color name="browser_actions_text_color">#de000000</color>
+	<color name="browser_actions_title_color">#ff646464</color>
+	<color name="button_material_dark">#ff5a595b</color>
+	<color name="button_material_light">#ffd6d7d7</color>
+	<color name="cardview_dark_background">#ff424242</color>
+	<color name="cardview_light_background">#ffffffff</color>
+	<color name="cardview_shadow_end_color">#03000000</color>
+	<color name="cardview_shadow_start_color">#37000000</color>
+	<color name="colorApplicationsOverlay">#aaffffff</color>
+	<color name="colorBlack">#ff000000</color>
+	<color name="colorFeedbackNotice">@color/color_red_600</color>
+	<color name="colorLayoutIcons">#ff757575</color>
+	<color name="colorModuleAudio">#ff7e57c2</color>
+	<color name="colorModuleBattery">#fffbc02d</color>
+	<color name="colorModuleBluetooth">#ff29b6f6</color>
+	<color name="colorModuleCameras">#fff4511e</color>
+	<color name="colorModuleCodecs">#ffafb42b</color>
+	<color name="colorModuleDevice">#ffe53935</color>
+	<color name="colorModuleDrm">#ff00acc1</color>
+	<color name="colorModuleIdentifiers">#ff283593</color>
+	<color name="colorModuleMemory">#ff0277db</color>
+	<color name="colorModuleNetwork">#fffbc02d</color>
+	<color name="colorModuleProcessor">#ffab47bc</color>
+	<color name="colorModuleSIM">#ff00695c</color>
+	<color name="colorModuleSecurity">#ffff6090</color>
+	<color name="colorModuleSensors">#ffec407a</color>
+	<color name="colorModuleSystem">#ff558b2f</color>
+	<color name="colorModuleThermal">#ff7e57c2</color>
+	<color name="colorModuleWifi">#ffff8f00</color>
+	<color name="colorShimmerBackground">#ff888888</color>
+	<color name="colorShimmerEffect">#a2878787</color>
+	<color name="colorTransparent">@android:color/transparent</color>
+	<color name="colorWhite">#ffffffff</color>
+	<color name="color_amber_500">#ffffc107</color>
+	<color name="color_amber_500_light">#fffff350</color>
+	<color name="color_amber_600">#ffffb300</color>
+	<color name="color_amber_600_light">#ffffe54c</color>
+	<color name="color_amber_700">#ffffa000</color>
+	<color name="color_amber_700_light">#ffffd149</color>
+	<color name="color_amber_800">#ffff8f00</color>
+	<color name="color_amber_800_light">#ffffc046</color>
+	<color name="color_amber_900">#ffff6f00</color>
+	<color name="color_amber_900_light">#ffffa040</color>
+	<color name="color_blue_500">#ff2196f3</color>
+	<color name="color_blue_500_light">#ff6ec6ff</color>
+	<color name="color_blue_600">#ff1e88e5</color>
+	<color name="color_blue_600_light">#ff6ab7ff</color>
+	<color name="color_blue_700">#ff1976d2</color>
+	<color name="color_blue_700_light">#ff63a4ff</color>
+	<color name="color_blue_800">#ff1565c0</color>
+	<color name="color_blue_800_light">#ff5e92f3</color>
+	<color name="color_blue_900">#ff0d47a1</color>
+	<color name="color_blue_900_light">#ff5472d3</color>
+	<color name="color_cyan_500">#ff00bcd4</color>
+	<color name="color_cyan_500_light">#ff62efff</color>
+	<color name="color_cyan_600">#ff00acc1</color>
+	<color name="color_cyan_600_light">#ff5ddef4</color>
+	<color name="color_cyan_700">#ff0097a7</color>
+	<color name="color_cyan_700_light">#ff56c8d8</color>
+	<color name="color_cyan_800">#ff00838f</color>
+	<color name="color_cyan_800_light">#ff4fb3bf</color>
+	<color name="color_cyan_900">#ff006064</color>
+	<color name="color_cyan_900_light">#ff428e92</color>
+	<color name="color_deep_orange_500">#ffff5722</color>
+	<color name="color_deep_orange_500_light">#ffff8a50</color>
+	<color name="color_deep_orange_600">#fff4511e</color>
+	<color name="color_deep_orange_600_light">#ffff844c</color>
+	<color name="color_deep_orange_700">#ffe64a19</color>
+	<color name="color_deep_orange_700_light">#ffff7d47</color>
+	<color name="color_deep_orange_800">#ffd84315</color>
+	<color name="color_deep_orange_800_light">#ffff7543</color>
+	<color name="color_deep_orange_900">#ffbf360c</color>
+	<color name="color_deep_orange_900_light">#fff9683a</color>
+	<color name="color_deep_purple_500">#ff673ab7</color>
+	<color name="color_deep_purple_500_light">#ff9a67ea</color>
+	<color name="color_deep_purple_600">#ff5e35b1</color>
+	<color name="color_deep_purple_600_light">#ff9162e4</color>
+	<color name="color_deep_purple_700">#ff512da8</color>
+	<color name="color_deep_purple_700_light">#ff8559da</color>
+	<color name="color_deep_purple_800">#ff4527a0</color>
+	<color name="color_deep_purple_800_light">#ff7953d2</color>
+	<color name="color_deep_purple_900">#ff311b92</color>
+	<color name="color_deep_purple_900_light">#ff6746c3</color>
+	<color name="color_green_500">#ff4caf50</color>
+	<color name="color_green_500_light">#ff80e27e</color>
+	<color name="color_green_600">#ff43a047</color>
+	<color name="color_green_600_light">#ff76d275</color>
+	<color name="color_green_700">#ff388e3c</color>
+	<color name="color_green_700_light">#ff6abf69</color>
+	<color name="color_green_800">#ff2e7d32</color>
+	<color name="color_green_800_light">#ff60ad5e</color>
+	<color name="color_green_900">#ff1b5e20</color>
+	<color name="color_green_900_light">#ff4c8c4a</color>
+	<color name="color_indigo_500">#ff3f51b5</color>
+	<color name="color_indigo_500_light">#ff757de8</color>
+	<color name="color_indigo_600">#ff3949ab</color>
+	<color name="color_indigo_600_light">#ff6f74dd</color>
+	<color name="color_indigo_700">#ff303f9f</color>
+	<color name="color_indigo_700_light">#ff666ad1</color>
+	<color name="color_indigo_800">#ff283593</color>
+	<color name="color_indigo_800_light">#ff5f5fc4</color>
+	<color name="color_indigo_900">#ff1a237e</color>
+	<color name="color_indigo_900_light">#ff534bae</color>
+	<color name="color_light_blue_500">#ff03a9f4</color>
+	<color name="color_light_blue_500_light">#ff67daff</color>
+	<color name="color_light_blue_600">#ff039be5</color>
+	<color name="color_light_blue_600_light">#ff63ccff</color>
+	<color name="color_light_blue_700">#ff0288d1</color>
+	<color name="color_light_blue_700_light">#ff5eb8ff</color>
+	<color name="color_light_blue_800">#ff0277bd</color>
+	<color name="color_light_blue_800_light">#ff58a5f0</color>
+	<color name="color_light_blue_900">#ff01579b</color>
+	<color name="color_light_blue_900_light">#ff4f83cc</color>
+	<color name="color_light_green_500">#ff8bc34a</color>
+	<color name="color_light_green_500_light">#ffbef67a</color>
+	<color name="color_light_green_600">#ff7cb342</color>
+	<color name="color_light_green_600_light">#ffaee571</color>
+	<color name="color_light_green_700">#ff689f38</color>
+	<color name="color_light_green_700_light">#ff99d066</color>
+	<color name="color_light_green_800">#ff558b2f</color>
+	<color name="color_light_green_800_light">#ff85bb5c</color>
+	<color name="color_light_green_900">#ff33691e</color>
+	<color name="color_light_green_900_light">#ff629749</color>
+	<color name="color_lime_500">#ffcddc39</color>
+	<color name="color_lime_500_light">#ffffff6e</color>
+	<color name="color_lime_600">#ffc0ca33</color>
+	<color name="color_lime_600_light">#fff5fd67</color>
+	<color name="color_lime_700">#ffafb42b</color>
+	<color name="color_lime_700_light">#ffe4e65e</color>
+	<color name="color_lime_800">#ff9e9d24</color>
+	<color name="color_lime_800_light">#ffd2ce56</color>
+	<color name="color_lime_900">#ff827717</color>
+	<color name="color_lime_900_light">#ffb4a647</color>
+	<color name="color_orange_500">#ffff9800</color>
+	<color name="color_orange_500_light">#ffffc947</color>
+	<color name="color_orange_600">#fffb8c00</color>
+	<color name="color_orange_600_light">#ffffbd45</color>
+	<color name="color_orange_700">#fff57c00</color>
+	<color name="color_orange_700_light">#ffffad42</color>
+	<color name="color_orange_800">#ffef6c00</color>
+	<color name="color_orange_800_light">#ffff9d3f</color>
+	<color name="color_orange_900">#ffe65100</color>
+	<color name="color_orange_900_light">#ffff833a</color>
+	<color name="color_pink_500">#ffe91e63</color>
+	<color name="color_pink_500_light">#ffff6090</color>
+	<color name="color_pink_600">#ffd81b60</color>
+	<color name="color_pink_600_light">#ffff5c8d</color>
+	<color name="color_pink_700">#ffc2185b</color>
+	<color name="color_pink_700_light">#fffa5788</color>
+	<color name="color_pink_800">#ffad1457</color>
+	<color name="color_pink_800_light">#ffe35183</color>
+	<color name="color_pink_900">#ff880e4f</color>
+	<color name="color_pink_900_light">#ffbc477b</color>
+	<color name="color_purple_500">#ff9c27b0</color>
+	<color name="color_purple_500_light">#ffd05ce3</color>
+	<color name="color_purple_600">#ff8e24aa</color>
+	<color name="color_purple_600_light">#ffc158dc</color>
+	<color name="color_purple_700">#ff7b1fa2</color>
+	<color name="color_purple_700_light">#ffae52d4</color>
+	<color name="color_purple_800">#ff6a1b9a</color>
+	<color name="color_purple_800_light">#ff9c4dcc</color>
+	<color name="color_purple_900">#ff4a148c</color>
+	<color name="color_purple_900_light">#ff7c43bd</color>
+	<color name="color_red_500">#fff44336</color>
+	<color name="color_red_500_light">#ffff7961</color>
+	<color name="color_red_600">#ffe53935</color>
+	<color name="color_red_600_light">#ffff6f60</color>
+	<color name="color_red_700">#ffd32f2f</color>
+	<color name="color_red_700_light">#ffff6659</color>
+	<color name="color_red_800">#ffc62828</color>
+	<color name="color_red_800_light">#ffff5f52</color>
+	<color name="color_red_900">#ffb71c1c</color>
+	<color name="color_red_900_light">#fff05545</color>
+	<color name="color_teal_500">#ff009688</color>
+	<color name="color_teal_500_light">#ff52c7b8</color>
+	<color name="color_teal_600">#ff00897b</color>
+	<color name="color_teal_600_light">#ff4ebaaa</color>
+	<color name="color_teal_700">#ff00796b</color>
+	<color name="color_teal_700_light">#ff48a999</color>
+	<color name="color_teal_800">#ff00695c</color>
+	<color name="color_teal_800_light">#ff439889</color>
+	<color name="color_teal_900">#ff004d40</color>
+	<color name="color_teal_900_light">#ff39796b</color>
+	<color name="color_theme_background_black">@color/colorBlack</color>
+	<color name="color_theme_background_dark">#ff202124</color>
+	<color name="color_theme_background_dialog_dark">#ff3a4656</color>
+	<color name="color_theme_background_dialog_white">#ffffffff</color>
+	<color name="color_theme_background_electricity">#ff152431</color>
+	<color name="color_theme_background_jungle">#ff12210e</color>
+	<color name="color_theme_background_ocean">#ff041b29</color>
+	<color name="color_theme_background_olive">#ff202113</color>
+	<color name="color_theme_background_pepper">#ff290c02</color>
+	<color name="color_theme_background_rose">#ffc6a79f</color>
+	<color name="color_theme_background_secondary_black">#ff191919</color>
+	<color name="color_theme_background_secondary_dark">#ff353535</color>
+	<color name="color_theme_background_secondary_electricity">#ff193543</color>
+	<color name="color_theme_background_secondary_jungle">#ff1d2b1a</color>
+	<color name="color_theme_background_secondary_ocean">#ff142935</color>
+	<color name="color_theme_background_secondary_olive">#ff35371f</color>
+	<color name="color_theme_background_secondary_pepper">#ff351b12</color>
+	<color name="color_theme_background_secondary_rose">#ffbf9c93</color>
+	<color name="color_theme_background_secondary_sepia">#fff5eede</color>
+	<color name="color_theme_background_secondary_serenity">#ff627dac</color>
+	<color name="color_theme_background_secondary_steel">#ff33363f</color>
+	<color name="color_theme_background_secondary_white">@color/colorWhite</color>
+	<color name="color_theme_background_sepia">#fff7f1e4</color>
+	<color name="color_theme_background_serenity">#ff738bb5</color>
+	<color name="color_theme_background_steel">#ff393d46</color>
+	<color name="color_theme_background_white">@color/colorWhite</color>
+	<color name="color_theme_divider_black">#ff1e1e1e</color>
+	<color name="color_theme_divider_dark">#ff3b3c3f</color>
+	<color name="color_theme_divider_electricity">#ff47525d</color>
+	<color name="color_theme_divider_jungle">#ff2f3c2b</color>
+	<color name="color_theme_divider_ocean">#ff233743</color>
+	<color name="color_theme_divider_olive">#ff3b3c2e</color>
+	<color name="color_theme_divider_pepper">#ff432a21</color>
+	<color name="color_theme_divider_rose">#ffcbafa8</color>
+	<color name="color_theme_divider_sepia">#ffd5cfc6</color>
+	<color name="color_theme_divider_serenity">#ff8197bc</color>
+	<color name="color_theme_divider_steel">#ff2f363e</color>
+	<color name="color_theme_divider_white">#ffededed</color>
+	<color name="color_theme_icon_dark">#ff9aa0a6</color>
+	<color name="color_theme_icon_light">#ff757575</color>
+	<color name="color_theme_icon_rose">#ff515151</color>
+	<color name="color_theme_icon_serenity">#ffc4c4c4</color>
+	<color name="color_theme_status_bar_sepia">#fff1e7d1</color>
+	<color name="color_theme_status_bar_white_21">#ffd4d4d4</color>
+	<color name="color_theme_stroke_black">#ff1e1e1e</color>
+	<color name="color_theme_stroke_dark">#ff5f6368</color>
+	<color name="color_theme_stroke_electricity">#ff47525d</color>
+	<color name="color_theme_stroke_jungle">#ff434f40</color>
+	<color name="color_theme_stroke_light">#ffededed</color>
+	<color name="color_theme_stroke_ocean">#ff394b55</color>
+	<color name="color_theme_stroke_olive">#ff3b3c2e</color>
+	<color name="color_theme_stroke_pepper">#ff553f37</color>
+	<color name="color_theme_stroke_rose">#ffbf9c93</color>
+	<color name="color_theme_stroke_sepia">#ffd5cfc6</color>
+	<color name="color_theme_stroke_serenity">#ff627dac</color>
+	<color name="color_theme_stroke_steel">#ff252d38</color>
+	<color name="color_yellow_500">#ffffeb3b</color>
+	<color name="color_yellow_500_light">#ffffff72</color>
+	<color name="color_yellow_600">#fffdd835</color>
+	<color name="color_yellow_600_light">#ffffff6b</color>
+	<color name="color_yellow_700">#fffbc02d</color>
+	<color name="color_yellow_700_light">#fffff263</color>
+	<color name="color_yellow_800">#fff9a825</color>
+	<color name="color_yellow_800_light">#ffffd95a</color>
+	<color name="color_yellow_900">#fff57f17</color>
+	<color name="color_yellow_900_light">#ffffb04c</color>
+	<color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+	<color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+	<color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+	<color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+	<color name="common_google_signin_btn_text_light_default">#90000000</color>
+	<color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+	<color name="common_google_signin_btn_text_light_focused">#90000000</color>
+	<color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+	<color name="default_shimmer_color">#ffe3e1e3</color>
+	<color name="demo_light_transparent">#16000000</color>
+	<color name="design_bottom_navigation_shadow_color">#14000000</color>
+	<color name="design_dark_default_color_background">#ff121212</color>
+	<color name="design_dark_default_color_error">#ffcf6679</color>
+	<color name="design_dark_default_color_on_background">#ffffffff</color>
+	<color name="design_dark_default_color_on_error">#ff000000</color>
+	<color name="design_dark_default_color_on_primary">#ff000000</color>
+	<color name="design_dark_default_color_on_secondary">#ff000000</color>
+	<color name="design_dark_default_color_on_surface">#ffffffff</color>
+	<color name="design_dark_default_color_primary">#ffbb86fc</color>
+	<color name="design_dark_default_color_primary_dark">#ff000000</color>
+	<color name="design_dark_default_color_primary_variant">#ff3700b3</color>
+	<color name="design_dark_default_color_secondary">#ff03dac6</color>
+	<color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+	<color name="design_dark_default_color_surface">#ff121212</color>
+	<color name="design_default_color_background">#ffffffff</color>
+	<color name="design_default_color_error">#ffb00020</color>
+	<color name="design_default_color_on_background">#ff000000</color>
+	<color name="design_default_color_on_error">#ffffffff</color>
+	<color name="design_default_color_on_primary">#ffffffff</color>
+	<color name="design_default_color_on_secondary">#ff000000</color>
+	<color name="design_default_color_on_surface">#ff000000</color>
+	<color name="design_default_color_primary">#ff6200ee</color>
+	<color name="design_default_color_primary_dark">#ff3700b3</color>
+	<color name="design_default_color_primary_variant">#ff3700b3</color>
+	<color name="design_default_color_secondary">#ff03dac6</color>
+	<color name="design_default_color_secondary_variant">#ff018786</color>
+	<color name="design_default_color_surface">#ffffffff</color>
+	<color name="design_fab_shadow_end_color">@android:color/transparent</color>
+	<color name="design_fab_shadow_mid_color">#14000000</color>
+	<color name="design_fab_shadow_start_color">#44000000</color>
+	<color name="design_fab_stroke_end_inner_color">#0a000000</color>
+	<color name="design_fab_stroke_end_outer_color">#0f000000</color>
+	<color name="design_fab_stroke_top_inner_color">#1affffff</color>
+	<color name="design_fab_stroke_top_outer_color">#2effffff</color>
+	<color name="design_snackbar_background_color">#ff323232</color>
+	<color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+	<color name="dim_foreground_disabled_material_light">#80323232</color>
+	<color name="dim_foreground_material_dark">#ffbebebe</color>
+	<color name="dim_foreground_material_light">#ff323232</color>
+	<color name="error_color_material_dark">#ffff7043</color>
+	<color name="error_color_material_light">#ffff5722</color>
+	<color name="foreground_material_dark">@android:color/white</color>
+	<color name="foreground_material_light">@android:color/black</color>
+	<color name="highlighted_text_material_dark">#6680cbc4</color>
+	<color name="highlighted_text_material_light">#66009688</color>
+	<color name="material_blue_grey_800">#ff37474f</color>
+	<color name="material_blue_grey_900">#ff263238</color>
+	<color name="material_blue_grey_950">#ff21272b</color>
+	<color name="material_deep_teal_200">#ff80cbc4</color>
+	<color name="material_deep_teal_500">#ff008577</color>
+	<color name="material_grey_100">#fff5f5f5</color>
+	<color name="material_grey_300">#ffe0e0e0</color>
+	<color name="material_grey_50">#fffafafa</color>
+	<color name="material_grey_600">#ff757575</color>
+	<color name="material_grey_800">#ff424242</color>
+	<color name="material_grey_850">#ff303030</color>
+	<color name="material_grey_900">#ff212121</color>
+	<color name="mtrl_btn_text_color_disabled">#61000000</color>
+	<color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
+	<color name="mtrl_scrim_color">#52000000</color>
+	<color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
+	<color name="mtrl_textinput_disabled_color">#1f000000</color>
+	<color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
+	<color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
+	<color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
+	<color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+	<color name="notification_icon_bg_color">#ff9e9e9e</color>
+	<color name="preference_fallback_accent_color">#ff008577</color>
+	<color name="primary_dark_material_dark">@android:color/black</color>
+	<color name="primary_dark_material_light">@color/material_grey_600</color>
+	<color name="primary_material_dark">@color/material_grey_900</color>
+	<color name="primary_material_light">@color/material_grey_100</color>
+	<color name="primary_text_default_material_dark">#ffffffff</color>
+	<color name="primary_text_default_material_light">#de000000</color>
+	<color name="primary_text_disabled_material_dark">#4dffffff</color>
+	<color name="primary_text_disabled_material_light">#39000000</color>
+	<color name="ripple_material_dark">#33ffffff</color>
+	<color name="ripple_material_light">#1f000000</color>
+	<color name="sd_label_text_color">#ff757575</color>
+	<color name="sd_overlay_color">#aaffffff</color>
+	<color name="secondary_text_default_material_dark">#b3ffffff</color>
+	<color name="secondary_text_default_material_light">#8a000000</color>
+	<color name="secondary_text_disabled_material_dark">#36ffffff</color>
+	<color name="secondary_text_disabled_material_light">#24000000</color>
+	<color name="shimmer_color">#a2878787</color>
+	<color name="switch_thumb_disabled_material_dark">#ff616161</color>
+	<color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+	<color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+	<color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+	<color name="tooltip_background_dark">#e6616161</color>
+	<color name="tooltip_background_light">#e6ffffff</color>
+	<item type="color" name="dummy_ae_2">false</item>
+	<item type="color" name="dummy_ae_1d">false</item>
+	<item type="color" name="dummy_ae_1e">false</item>
+	<item type="color" name="dummy_ae_25">false</item>
+	<item type="color" name="dummy_ae_26">false</item>
+	<item type="color" name="dummy_ae_29">false</item>
+	<item type="color" name="dummy_ae_2a">false</item>
+	<item type="color" name="dummy_ae_2b">false</item>
+	<item type="color" name="dummy_ae_2c">false</item>
+	<item type="color" name="dummy_ae_32">false</item>
+	<item type="color" name="dummy_ae_33">false</item>
+	<item type="color" name="dummy_ae_34">false</item>
+	<item type="color" name="dummy_ae_35">false</item>
+	<item type="color" name="dummy_ae_36">false</item>
+	<item type="color" name="dummy_ae_37">false</item>
+	<item type="color" name="dummy_ae_38">false</item>
+	<item type="color" name="dummy_ae_39">false</item>
+	<item type="color" name="dummy_ae_3a">false</item>
+	<item type="color" name="dummy_ae_3b">false</item>
+	<item type="color" name="dummy_ae_3c">false</item>
+	<item type="color" name="dummy_ae_3d">false</item>
+	<item type="color" name="dummy_ae_3e">false</item>
+	<item type="color" name="dummy_ae_3f">false</item>
+	<item type="color" name="dummy_ae_48">false</item>
+	<item type="color" name="dummy_ae_49">false</item>
+	<item type="color" name="dummy_ae_55">false</item>
+	<item type="color" name="dummy_ae_56">false</item>
+	<item type="color" name="dummy_ae_5c">false</item>
+	<item type="color" name="dummy_ae_5d">false</item>
+	<item type="color" name="dummy_ae_5e">false</item>
+	<item type="color" name="dummy_ae_65">false</item>
+	<item type="color" name="dummy_ae_66">false</item>
+	<item type="color" name="dummy_ae_67">false</item>
+	<item type="color" name="dummy_ae_68">false</item>
+	<item type="color" name="dummy_ae_69">false</item>
+	<item type="color" name="dummy_ae_6a">false</item>
+	<item type="color" name="dummy_ae_6b">false</item>
+	<item type="color" name="dummy_ae_6c">false</item>
+	<item type="color" name="dummy_ae_6d">false</item>
+	<item type="color" name="dummy_ae_6e">false</item>
+	<item type="color" name="dummy_ae_6f">false</item>
+	<item type="color" name="dummy_ae_70">false</item>
+	<item type="color" name="dummy_ae_71">false</item>
+	<item type="color" name="dummy_ae_87">false</item>
+	<item type="color" name="dummy_ae_99">false</item>
+	<item type="color" name="dummy_ae_9a">false</item>
+	<item type="color" name="dummy_ae_9b">false</item>
+	<item type="color" name="dummy_ae_9d">false</item>
+	<item type="color" name="dummy_ae_9e">false</item>
+	<item type="color" name="dummy_ae_9f">false</item>
+	<item type="color" name="dummy_ae_a0">false</item>
+	<item type="color" name="dummy_ae_a1">false</item>
+	<item type="color" name="dummy_ae_a2">false</item>
+	<item type="color" name="dummy_ae_a3">false</item>
+	<item type="color" name="dummy_ae_a4">false</item>
+	<item type="color" name="dummy_ae_a5">false</item>
+	<item type="color" name="dummy_ae_a6">false</item>
+	<item type="color" name="dummy_ae_a7">false</item>
+	<item type="color" name="dummy_ae_a8">false</item>
+	<item type="color" name="dummy_ae_a9">false</item>
+	<item type="color" name="dummy_ae_aa">false</item>
+	<item type="color" name="dummy_ae_c9">false</item>
+	<item type="color" name="dummy_ae_ca">false</item>
+	<item type="color" name="dummy_ae_cb">false</item>
+	<item type="color" name="dummy_ae_cc">false</item>
+	<item type="color" name="dummy_ae_cd">false</item>
+	<item type="color" name="dummy_ae_ce">false</item>
+	<item type="color" name="dummy_ae_cf">false</item>
+	<item type="color" name="dummy_ae_d0">false</item>
+	<item type="color" name="dummy_ae_d1">false</item>
+	<item type="color" name="dummy_ae_d2">false</item>
+	<item type="color" name="dummy_ae_d3">false</item>
+	<item type="color" name="dummy_ae_d4">false</item>
+	<item type="color" name="dummy_ae_d5">false</item>
+	<item type="color" name="dummy_ae_d6">false</item>
+	<item type="color" name="dummy_ae_d7">false</item>
+	<item type="color" name="dummy_ae_d8">false</item>
+	<item type="color" name="dummy_ae_d9">false</item>
+	<item type="color" name="dummy_ae_da">false</item>
+	<item type="color" name="dummy_ae_db">false</item>
+	<item type="color" name="dummy_ae_dc">false</item>
+	<item type="color" name="dummy_ae_dd">false</item>
+	<item type="color" name="dummy_ae_de">false</item>
+	<item type="color" name="dummy_ae_df">false</item>
+	<item type="color" name="dummy_ae_e0">false</item>
+	<item type="color" name="dummy_ae_e1">false</item>
+	<item type="color" name="dummy_ae_e4">false</item>
+	<item type="color" name="dummy_ae_103">false</item>
+	<item type="color" name="dummy_ae_104">false</item>
+	<item type="color" name="dummy_ae_107">false</item>
+	<item type="color" name="dummy_ae_108">false</item>
+	<item type="color" name="dummy_ae_109">false</item>
+	<item type="color" name="dummy_ae_10e">false</item>
+	<item type="color" name="dummy_ae_10f">false</item>
+	<item type="color" name="dummy_ae_110">false</item>
+	<item type="color" name="dummy_ae_112">false</item>
+	<item type="color" name="dummy_ae_114">false</item>
+	<item type="color" name="dummy_ae_115">false</item>
+	<item type="color" name="dummy_ae_116">false</item>
+	<item type="color" name="dummy_ae_117">false</item>
+	<item type="color" name="dummy_ae_11a">false</item>
+	<item type="color" name="dummy_ae_11b">false</item>
+	<item type="color" name="dummy_ae_11c">false</item>
+	<item type="color" name="dummy_ae_124">false</item>
+	<item type="color" name="dummy_ae_125">false</item>
+	<item type="color" name="dummy_ae_126">false</item>
+	<item type="color" name="dummy_ae_12b">false</item>
+	<item type="color" name="dummy_ae_12c">false</item>
+	<item type="color" name="dummy_ae_12d">false</item>
+	<item type="color" name="dummy_ae_12f">false</item>
+	<item type="color" name="dummy_ae_130">false</item>
+	<item type="color" name="dummy_ae_131">false</item>
+	<item type="color" name="dummy_ae_132">false</item>
+	<item type="color" name="dummy_ae_133">false</item>
+	<item type="color" name="dummy_ae_134">false</item>
+	<item type="color" name="dummy_ae_137">false</item>
+	<item type="color" name="dummy_ae_138">false</item>
+	<item type="color" name="dummy_ae_139">false</item>
+	<item type="color" name="dummy_ae_13b">false</item>
+	<item type="color" name="dummy_ae_13c">false</item>
+	<item type="color" name="dummy_ae_13d">false</item>
+	<item type="color" name="dummy_ae_13e">false</item>
+	<item type="color" name="dummy_ae_13f">false</item>
+	<item type="color" name="dummy_ae_140">false</item>
+	<item type="color" name="dummy_ae_141">false</item>
+	<item type="color" name="dummy_ae_142">false</item>
+	<item type="color" name="dummy_ae_143">false</item>
+	<item type="color" name="dummy_ae_145">false</item>
+	<item type="color" name="dummy_ae_146">false</item>
+	<item type="color" name="dummy_ae_147">false</item>
+	<item type="color" name="dummy_ae_148">false</item>
+	<item type="color" name="dummy_ae_149">false</item>
+	<item type="color" name="dummy_ae_14a">false</item>
+	<item type="color" name="dummy_ae_14c">false</item>
+	<item type="color" name="dummy_ae_150">false</item>
+	<item type="color" name="dummy_ae_154">false</item>
+	<item type="color" name="dummy_ae_15e">false</item>
+	<item type="color" name="dummy_ae_15f">false</item>
+	<item type="color" name="dummy_ae_163">false</item>
+	<item type="color" name="dummy_ae_165">false</item>
+	<item type="color" name="dummy_ae_166">false</item>
+	<item type="color" name="dummy_ae_167">false</item>
+	<item type="color" name="dummy_ae_168">false</item>
+	<item type="color" name="dummy_ae_169">false</item>
+	<item type="color" name="dummy_ae_171">false</item>
+	<item type="color" name="dummy_ae_172">false</item>
+	<item type="color" name="dummy_ae_173">false</item>
+	<item type="color" name="dummy_ae_175">false</item>
+	<item type="color" name="dummy_ae_177">false</item>
+	<item type="color" name="dummy_ae_178">false</item>
+	<item type="color" name="dummy_ae_179">false</item>
+	<item type="color" name="dummy_ae_17a">false</item>
+	<item type="color" name="dummy_ae_17f">false</item>
+	<item type="color" name="dummy_ae_180">false</item>
+	<item type="color" name="dummy_ae_189">false</item>
+	<item type="color" name="dummy_ae_18a">false</item>
+	<item type="color" name="dummy_ae_191">false</item>
+	<item type="color" name="dummy_ae_192">false</item>
+	<item type="color" name="dummy_ae_193">false</item>
+	<item type="color" name="dummy_ae_197">false</item>
+	<item type="color" name="dummy_ae_19d">false</item>
+	<item type="color" name="dummy_ae_19e">false</item>
+	<item type="color" name="dummy_ae_19f">false</item>
+	<item type="color" name="dummy_ae_1a0">false</item>
+	<item type="color" name="dummy_ae_1a1">false</item>
+	<item type="color" name="dummy_ae_1a2">false</item>
+	<item type="color" name="dummy_ae_1ac">false</item>
+	<item type="color" name="dummy_ae_1ad">false</item>
+	<item type="color" name="dummy_ae_1b5">false</item>
+	<item type="color" name="dummy_ae_1b7">false</item>
+	<item type="color" name="dummy_ae_1c1">false</item>
+	<item type="color" name="dummy_ae_1c2">false</item>
+	<item type="color" name="dummy_ae_1c3">false</item>
+	<item type="color" name="dummy_ae_1cf">false</item>
+	<item type="color" name="dummy_ae_1d4">false</item>
+	<item type="color" name="dummy_ae_1d6">false</item>
+	<item type="color" name="dummy_ae_1dc">false</item>
+	<item type="color" name="dummy_ae_1df">false</item>
+	<item type="color" name="dummy_ae_1e0">false</item>
+	<item type="color" name="dummy_ae_1e1">false</item>
+	<item type="color" name="dummy_ae_1e2">false</item>
+	<item type="color" name="dummy_ae_1e3">false</item>
+	<item type="color" name="dummy_ae_1f2">false</item>
+	<item type="color" name="dummy_ae_1f4">false</item>
+	<item type="color" name="dummy_ae_1f8">false</item>
+	<item type="color" name="dummy_ae_1fc">false</item>
+	<item type="color" name="dummy_ae_1fd">false</item>
+	<item type="color" name="dummy_ae_203">false</item>
+	<item type="color" name="dummy_ae_204">false</item>
+	<item type="color" name="dummy_ae_205">false</item>
+	<item type="color" name="dummy_ae_21b">false</item>
+	<item type="color" name="dummy_ae_21c">false</item>
+	<item type="color" name="dummy_ae_225">false</item>
+	<item type="color" name="dummy_ae_226">false</item>
+	<item type="color" name="dummy_ae_227">false</item>
+	<item type="color" name="dummy_ae_228">false</item>
+	<item type="color" name="dummy_ae_229">false</item>
+	<item type="color" name="dummy_ae_22a">false</item>
+	<item type="color" name="dummy_ae_22b">false</item>
+	<item type="color" name="dummy_ae_22c">false</item>
+	<item type="color" name="dummy_ae_22d">false</item>
+	<item type="color" name="dummy_ae_22e">false</item>
+	<item type="color" name="dummy_ae_22f">false</item>
+	<item type="color" name="dummy_ae_230">false</item>
+	<item type="color" name="dummy_ae_231">false</item>
+	<item type="color" name="dummy_ae_232">false</item>
+	<item type="color" name="dummy_ae_233">false</item>
+	<item type="color" name="dummy_ae_234">false</item>
+	<item type="color" name="dummy_ae_235">false</item>
+	<item type="color" name="dummy_ae_236">false</item>
+	<item type="color" name="dummy_ae_237">false</item>
+	<item type="color" name="dummy_ae_238">false</item>
+	<item type="color" name="dummy_ae_239">false</item>
+	<item type="color" name="dummy_ae_23a">false</item>
+	<item type="color" name="dummy_ae_23b">false</item>
+	<item type="color" name="dummy_ae_23c">false</item>
+	<item type="color" name="dummy_ae_23d">false</item>
+	<item type="color" name="dummy_ae_23e">false</item>
+	<item type="color" name="dummy_ae_23f">false</item>
+	<item type="color" name="dummy_ae_240">false</item>
+	<item type="color" name="dummy_ae_241">false</item>
+	<item type="color" name="dummy_ae_242">false</item>
+	<item type="color" name="dummy_ae_243">false</item>
+	<item type="color" name="dummy_ae_244">false</item>
+	<item type="color" name="dummy_ae_245">false</item>
+	<item type="color" name="dummy_ae_246">false</item>
+	<item type="color" name="dummy_ae_247">false</item>
+	<item type="color" name="dummy_ae_248">false</item>
+	<item type="color" name="dummy_ae_249">false</item>
+	<item type="color" name="dummy_ae_24a">false</item>
+	<item type="color" name="dummy_ae_24b">false</item>
+	<item type="color" name="dummy_ae_24c">false</item>
+	<item type="color" name="dummy_ae_24d">false</item>
+	<item type="color" name="dummy_ae_24e">false</item>
+	<item type="color" name="dummy_ae_24f">false</item>
+	<item type="color" name="dummy_ae_250">false</item>
+	<item type="color" name="dummy_ae_251">false</item>
+	<item type="color" name="dummy_ae_252">false</item>
+	<item type="color" name="dummy_ae_253">false</item>
+	<item type="color" name="dummy_ae_254">false</item>
+	<item type="color" name="dummy_ae_255">false</item>
+	<item type="color" name="dummy_ae_256">false</item>
+	<item type="color" name="dummy_ae_257">false</item>
+	<item type="color" name="dummy_ae_258">false</item>
+	<item type="color" name="dummy_ae_259">false</item>
+	<item type="color" name="dummy_ae_25a">false</item>
+	<item type="color" name="dummy_ae_25b">false</item>
+	<item type="color" name="dummy_ae_25c">false</item>
+	<item type="color" name="dummy_ae_25d">false</item>
+	<item type="color" name="dummy_ae_25e">false</item>
+	<item type="color" name="dummy_ae_25f">false</item>
+	<item type="color" name="dummy_ae_260">false</item>
+	<item type="color" name="dummy_ae_261">false</item>
+	<item type="color" name="dummy_ae_262">false</item>
+	<item type="color" name="dummy_ae_263">false</item>
+	<item type="color" name="dummy_ae_264">false</item>
+	<item type="color" name="dummy_ae_265">false</item>
+	<item type="color" name="dummy_ae_266">false</item>
+	<item type="color" name="dummy_ae_267">false</item>
+	<item type="color" name="dummy_ae_268">false</item>
+	<item type="color" name="dummy_ae_269">false</item>
+	<item type="color" name="dummy_ae_26a">false</item>
+	<item type="color" name="dummy_ae_26b">false</item>
+	<item type="color" name="dummy_ae_26c">false</item>
+	<item type="color" name="dummy_ae_26d">false</item>
+	<item type="color" name="dummy_ae_26e">false</item>
+	<item type="color" name="dummy_ae_26f">false</item>
+	<item type="color" name="dummy_ae_270">false</item>
+	<item type="color" name="dummy_ae_271">false</item>
+	<item type="color" name="dummy_ae_272">false</item>
+	<item type="color" name="dummy_ae_273">false</item>
+	<item type="color" name="dummy_ae_274">false</item>
+	<item type="color" name="dummy_ae_275">false</item>
+	<item type="color" name="dummy_ae_276">false</item>
+	<item type="color" name="dummy_ae_277">false</item>
+	<item type="color" name="dummy_ae_278">false</item>
+	<item type="color" name="dummy_ae_279">false</item>
+	<item type="color" name="dummy_ae_27a">false</item>
+	<item type="color" name="dummy_ae_27b">false</item>
+	<item type="color" name="dummy_ae_27c">false</item>
+	<item type="color" name="dummy_ae_27e">false</item>
+	<item type="color" name="dummy_ae_27f">false</item>
+	<item type="color" name="dummy_ae_280">false</item>
+	<item type="color" name="dummy_ae_281">false</item>
+	<item type="color" name="dummy_ae_282">false</item>
+	<item type="color" name="dummy_ae_285">false</item>
+	<item type="color" name="dummy_ae_286">false</item>
+	<item type="color" name="dummy_ae_287">false</item>
+	<item type="color" name="dummy_ae_288">false</item>
+	<item type="color" name="dummy_ae_289">false</item>
+	<item type="color" name="dummy_ae_28a">false</item>
+	<item type="color" name="dummy_ae_28b">false</item>
+	<item type="color" name="dummy_ae_28d">false</item>
+	<item type="color" name="dummy_ae_28e">false</item>
+	<item type="color" name="dummy_ae_28f">false</item>
+	<item type="color" name="dummy_ae_290">false</item>
+	<item type="color" name="dummy_ae_291">false</item>
+	<item type="color" name="dummy_ae_293">false</item>
+	<item type="color" name="dummy_ae_294">false</item>
+	<item type="color" name="dummy_ae_295">false</item>
+	<item type="color" name="dummy_ae_296">false</item>
+	<item type="color" name="dummy_ae_297">false</item>
+	<item type="color" name="dummy_ae_298">false</item>
+	<item type="color" name="dummy_ae_299">false</item>
+	<item type="color" name="dummy_ae_29a">false</item>
+	<item type="color" name="dummy_ae_29c">false</item>
+	<item type="color" name="dummy_ae_29d">false</item>
+	<item type="color" name="dummy_ae_29e">false</item>
+	<item type="color" name="dummy_ae_29f">false</item>
+	<item type="color" name="dummy_ae_2a0">false</item>
+	<item type="color" name="dummy_ae_2a2">false</item>
+	<item type="color" name="dummy_ae_2a3">false</item>
+	<item type="color" name="dummy_ae_2a4">false</item>
+	<item type="color" name="dummy_ae_2a5">false</item>
+	<item type="color" name="dummy_ae_2a6">false</item>
+	<item type="color" name="dummy_ae_2a7">false</item>
+	<item type="color" name="dummy_ae_2a8">false</item>
+	<item type="color" name="dummy_ae_2a9">false</item>
+	<item type="color" name="dummy_ae_2ab">false</item>
+	<item type="color" name="dummy_ae_2ac">false</item>
+	<item type="color" name="dummy_ae_2ad">false</item>
+	<item type="color" name="dummy_ae_2ae">false</item>
+	<item type="color" name="dummy_ae_2af">false</item>
+	<item type="color" name="dummy_ae_2b1">false</item>
+	<item type="color" name="dummy_ae_2b2">false</item>
+	<item type="color" name="dummy_ae_2b3">false</item>
+	<item type="color" name="dummy_ae_2b4">false</item>
+	<item type="color" name="dummy_ae_2b5">false</item>
+	<item type="color" name="dummy_ae_2b6">false</item>
+	<item type="color" name="dummy_ae_2b7">false</item>
+	<item type="color" name="dummy_ae_2b8">false</item>
+	<item type="color" name="dummy_ae_2b9">false</item>
+	<item type="color" name="dummy_ae_2bb">false</item>
+	<item type="color" name="dummy_ae_2bc">false</item>
+	<item type="color" name="dummy_ae_2be">false</item>
+	<item type="color" name="dummy_ae_2bf">false</item>
+	<item type="color" name="dummy_ae_2c2">false</item>
+	<item type="color" name="dummy_ae_2c4">false</item>
+	<item type="color" name="dummy_ae_2c5">false</item>
+	<item type="color" name="dummy_ae_2c6">false</item>
+	<item type="color" name="dummy_ae_2c7">false</item>
+	<item type="color" name="dummy_ae_2c8">false</item>
+	<item type="color" name="dummy_ae_2c9">false</item>
+	<item type="color" name="dummy_ae_2ca">false</item>
+	<item type="color" name="dummy_ae_2cb">false</item>
+	<item type="color" name="dummy_ae_2cc">false</item>
+	<item type="color" name="dummy_ae_2cd">false</item>
+	<item type="color" name="dummy_ae_2ce">false</item>
+	<item type="color" name="dummy_ae_2cf">false</item>
+	<item type="color" name="dummy_ae_2d0">false</item>
+	<item type="color" name="dummy_ae_2d1">false</item>
+	<item type="color" name="dummy_ae_2d2">false</item>
+	<item type="color" name="dummy_ae_2d3">false</item>
+	<item type="color" name="dummy_ae_2d4">false</item>
+	<item type="color" name="dummy_ae_2d5">false</item>
+	<item type="color" name="dummy_ae_2d6">false</item>
+	<item type="color" name="dummy_ae_2d7">false</item>
+	<item type="color" name="dummy_ae_2d8">false</item>
+	<item type="color" name="dummy_ae_2d9">false</item>
+	<item type="color" name="dummy_ae_2da">false</item>
+	<item type="color" name="dummy_ae_2db">false</item>
+	<item type="color" name="dummy_ae_2dc">false</item>
+	<item type="color" name="dummy_ae_2dd">false</item>
+	<item type="color" name="dummy_ae_2de">false</item>
+	<item type="color" name="dummy_ae_2df">false</item>
+	<item type="color" name="dummy_ae_2e0">false</item>
+	<item type="color" name="dummy_ae_2e1">false</item>
+	<item type="color" name="dummy_ae_2e2">false</item>
+	<item type="color" name="dummy_ae_2e3">false</item>
+	<item type="color" name="dummy_ae_2e4">false</item>
+	<item type="color" name="dummy_ae_2e5">false</item>
+	<item type="color" name="dummy_ae_2e6">false</item>
+	<item type="color" name="dummy_ae_2e7">false</item>
+	<item type="color" name="dummy_ae_2e8">false</item>
+	<item type="color" name="dummy_ae_2e9">false</item>
+	<item type="color" name="dummy_ae_2ea">false</item>
+	<item type="color" name="dummy_ae_2eb">false</item>
+	<item type="color" name="dummy_ae_2ec">false</item>
+	<item type="color" name="dummy_ae_2ed">false</item>
+	<item type="color" name="dummy_ae_2ee">false</item>
+	<item type="color" name="dummy_ae_2ef">false</item>
+	<item type="color" name="dummy_ae_2f0">false</item>
+	<item type="color" name="dummy_ae_2f1">false</item>
+	<item type="color" name="dummy_ae_2f2">false</item>
+	<item type="color" name="dummy_ae_2f3">false</item>
+	<item type="color" name="dummy_ae_2f4">false</item>
+	<item type="color" name="dummy_ae_2f5">false</item>
+	<item type="color" name="dummy_ae_2f6">false</item>
+	<item type="color" name="dummy_ae_2f7">false</item>
+	<item type="color" name="dummy_ae_2f8">false</item>
+	<item type="color" name="dummy_ae_2f9">false</item>
+	<item type="color" name="dummy_ae_2fa">false</item>
+	<item type="color" name="dummy_ae_2fb">false</item>
+	<item type="color" name="dummy_ae_2fc">false</item>
+	<item type="color" name="dummy_ae_2fd">false</item>
+	<item type="color" name="dummy_ae_2fe">false</item>
+	<item type="color" name="dummy_ae_2ff">false</item>
+	<item type="color" name="dummy_ae_300">false</item>
+	<item type="color" name="dummy_ae_301">false</item>
+	<item type="color" name="dummy_ae_302">false</item>
+	<item type="color" name="dummy_ae_303">false</item>
+	<item type="color" name="dummy_ae_304">false</item>
+	<item type="color" name="dummy_ae_305">false</item>
+	<item type="color" name="dummy_ae_306">false</item>
+	<item type="color" name="dummy_ae_307">false</item>
+	<item type="color" name="dummy_ae_308">false</item>
+	<item type="color" name="dummy_ae_309">false</item>
+	<item type="color" name="dummy_ae_30a">false</item>
+	<item type="color" name="dummy_ae_30b">false</item>
+	<item type="color" name="dummy_ae_30c">false</item>
+	<item type="color" name="dummy_ae_30d">false</item>
+	<item type="color" name="dummy_ae_30e">false</item>
+	<item type="color" name="dummy_ae_30f">false</item>
+	<item type="color" name="dummy_ae_310">false</item>
+	<item type="color" name="dummy_ae_311">false</item>
+	<item type="color" name="dummy_ae_312">false</item>
+	<item type="color" name="dummy_ae_313">false</item>
+	<item type="color" name="dummy_ae_314">false</item>
+	<item type="color" name="dummy_ae_315">false</item>
+	<item type="color" name="dummy_ae_316">false</item>
+	<item type="color" name="dummy_ae_317">false</item>
+	<item type="color" name="dummy_ae_318">false</item>
+	<item type="color" name="dummy_ae_319">false</item>
+	<item type="color" name="dummy_ae_31a">false</item>
+	<item type="color" name="dummy_ae_31b">false</item>
+	<item type="color" name="dummy_ae_31c">false</item>
+	<item type="color" name="dummy_ae_31d">false</item>
+	<item type="color" name="dummy_ae_31e">false</item>
+	<item type="color" name="dummy_ae_31f">false</item>
+	<item type="color" name="dummy_ae_320">false</item>
+	<item type="color" name="dummy_ae_321">false</item>
+	<item type="color" name="dummy_ae_322">false</item>
+	<item type="color" name="dummy_ae_323">false</item>
+	<item type="color" name="dummy_ae_324">false</item>
+	<item type="color" name="dummy_ae_325">false</item>
+	<item type="color" name="dummy_ae_326">false</item>
+	<item type="color" name="dummy_ae_327">false</item>
+	<item type="color" name="dummy_ae_328">false</item>
+	<item type="color" name="dummy_ae_329">false</item>
+	<item type="color" name="dummy_ae_32a">false</item>
+	<item type="color" name="dummy_ae_32b">false</item>
+	<item type="color" name="dummy_ae_32c">false</item>
+	<item type="color" name="dummy_ae_32d">false</item>
+	<item type="color" name="dummy_ae_32e">false</item>
+	<item type="color" name="dummy_ae_32f">false</item>
+	<item type="color" name="dummy_ae_330">false</item>
+	<item type="color" name="dummy_ae_331">false</item>
+	<item type="color" name="dummy_ae_332">false</item>
+	<item type="color" name="dummy_ae_333">false</item>
+	<item type="color" name="dummy_ae_334">false</item>
+	<item type="color" name="dummy_ae_335">false</item>
+	<item type="color" name="dummy_ae_336">false</item>
+	<item type="color" name="dummy_ae_337">false</item>
+	<item type="color" name="dummy_ae_338">false</item>
+	<item type="color" name="dummy_ae_339">false</item>
+	<item type="color" name="dummy_ae_33a">false</item>
+	<item type="color" name="dummy_ae_33b">false</item>
+	<item type="color" name="dummy_ae_33c">false</item>
+	<item type="color" name="dummy_ae_33d">false</item>
+	<item type="color" name="dummy_ae_33e">false</item>
+	<item type="color" name="dummy_ae_33f">false</item>
+	<item type="color" name="dummy_ae_340">false</item>
+	<item type="color" name="dummy_ae_341">false</item>
+	<item type="color" name="dummy_ae_342">false</item>
+	<item type="color" name="dummy_ae_343">false</item>
+	<item type="color" name="dummy_ae_344">false</item>
+	<item type="color" name="dummy_ae_345">false</item>
+	<item type="color" name="dummy_ae_346">false</item>
+	<item type="color" name="dummy_ae_347">false</item>
+	<item type="color" name="dummy_ae_348">false</item>
+	<item type="color" name="dummy_ae_349">false</item>
+	<item type="color" name="dummy_ae_34a">false</item>
+	<item type="color" name="dummy_ae_34b">false</item>
+	<item type="color" name="dummy_ae_34c">false</item>
+	<item type="color" name="dummy_ae_34d">false</item>
+	<item type="color" name="dummy_ae_34e">false</item>
+	<item type="color" name="dummy_ae_34f">false</item>
+	<item type="color" name="dummy_ae_350">false</item>
+	<item type="color" name="dummy_ae_351">false</item>
+	<item type="color" name="dummy_ae_352">false</item>
+	<item type="color" name="dummy_ae_353">false</item>
+	<item type="color" name="dummy_ae_354">false</item>
+	<item type="color" name="dummy_ae_355">false</item>
+	<item type="color" name="dummy_ae_356">false</item>
+	<item type="color" name="dummy_ae_357">false</item>
+	<item type="color" name="dummy_ae_358">false</item>
+	<item type="color" name="dummy_ae_359">false</item>
+	<item type="color" name="dummy_ae_35a">false</item>
+	<item type="color" name="dummy_ae_35b">false</item>
+	<item type="color" name="dummy_ae_35c">false</item>
+	<item type="color" name="dummy_ae_35d">false</item>
+	<item type="color" name="dummy_ae_35e">false</item>
+	<item type="color" name="dummy_ae_35f">false</item>
+	<item type="color" name="dummy_ae_360">false</item>
+	<item type="color" name="dummy_ae_361">false</item>
+	<item type="color" name="dummy_ae_362">false</item>
+	<item type="color" name="dummy_ae_363">false</item>
+	<item type="color" name="dummy_ae_364">false</item>
+	<item type="color" name="dummy_ae_365">false</item>
+	<item type="color" name="dummy_ae_366">false</item>
+	<item type="color" name="dummy_ae_367">false</item>
+	<item type="color" name="dummy_ae_368">false</item>
+	<item type="color" name="dummy_ae_369">false</item>
+	<item type="color" name="dummy_ae_36a">false</item>
+	<item type="color" name="dummy_ae_36b">false</item>
+	<item type="color" name="dummy_ae_36c">false</item>
+	<item type="color" name="dummy_ae_36d">false</item>
+	<item type="color" name="dummy_ae_36e">false</item>
+	<item type="color" name="dummy_ae_36f">false</item>
+	<item type="color" name="dummy_ae_370">false</item>
+	<item type="color" name="dummy_ae_371">false</item>
+	<item type="color" name="dummy_ae_372">false</item>
+	<item type="color" name="dummy_ae_373">false</item>
+	<item type="color" name="dummy_ae_374">false</item>
+	<item type="color" name="dummy_ae_375">false</item>
+	<item type="color" name="dummy_ae_376">false</item>
+	<item type="color" name="dummy_ae_377">false</item>
+	<item type="color" name="dummy_ae_378">false</item>
+	<item type="color" name="dummy_ae_379">false</item>
+	<item type="color" name="dummy_ae_37a">false</item>
+	<item type="color" name="dummy_ae_37b">false</item>
+
+</resources>
